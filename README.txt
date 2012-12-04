@@ -19,4 +19,4 @@ on the logback-user@qos.ch mailing list.  However, please do not
 directly e-mail logback developers. The answer to your question might
 be useful to other users. Moreover, there are many knowledgeable users
 on the logback-user mailing lists who can quickly answer your
-questions. 
+questions.  Adding stuff
